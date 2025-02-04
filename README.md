@@ -39,7 +39,7 @@
 
 ## 📫 Contáctame
 
-- 📧 **Email**: [xcedeno@example.com](mailto:xcedeno281@gmail.com.com)
+- 📧 **Email**: [xcedeno@gmail.com](mailto:xcedeno281@gmail.com)
 - 💼 **LinkedIn**: [Xavier Cedeño](https://www.linkedin.com/in/xavier-cede%C3%B1o-02a750243/)
 - 🐦 **Twitter**: [@xavitoxy](https://twitter.com/xavitoxy)
 
