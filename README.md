@@ -30,8 +30,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xcedeno&show_icons=true&theme=radical&v=1)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=xcedeno&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=xcedeno&show_icons=true&theme=dracula&v=1)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=xcedeno&layout=compact&theme=dracula)
 
 ---
 
